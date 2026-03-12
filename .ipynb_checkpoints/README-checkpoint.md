@@ -17,6 +17,13 @@ RFM analysis, K-Means clustering, and a Random Forest classifier.
 ## Features
 - Interactive dashboard  
 - Real-time customer segmentation  
-- Business recommendations  
+- Business recommendations
+
+## 🚀 Live Deployment
+
+You can try the live application here:
+
+🔗 https://huggingface.co/spaces/KALYAN1188/E-Commerce_Customer_Segmentation
 
 Built by Kalyan.
+
