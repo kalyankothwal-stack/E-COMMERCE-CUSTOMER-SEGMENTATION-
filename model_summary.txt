@@ -1,0 +1,34 @@
+E-COMMERCE CUSTOMER SEGMENTATION MODEL SUMMARY
+================================================================================
+
+Total Customers: 4128
+Features Used: 10
+Clustering Algorithm: K-Means
+Number of Clusters: 4
+Silhouette Score: 0.5450
+Davies-Bouldin Score: 1.0539
+Calinski-Harabasz Score: 3008.95
+Prediction Model: Random Forest
+Prediction Accuracy: 0.9855
+Cross-Validation Mean: 0.9850
+
+================================================================================
+CLUSTER INSIGHTS
+================================================================================
+
+
+Cluster 0: At-Risk Customers
+  Size: 3364 (81.5%)
+  Recommendation: Run win-back campaigns with discounts and re-engagement emails.
+
+Cluster 1: At-Risk Customers
+  Size: 62 (1.5%)
+  Recommendation: Run win-back campaigns with discounts and re-engagement emails.
+
+Cluster 2: Loyal Customers
+  Size: 236 (5.7%)
+  Recommendation: Upsell premium products and strengthen loyalty programs.
+
+Cluster 3: Champions
+  Size: 466 (11.3%)
+  Recommendation: Reward with VIP offers, exclusive deals, and early access.

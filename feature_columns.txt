@@ -1,0 +1,10 @@
+Recency
+Frequency
+MonetaryTotal
+MonetaryAvg
+PurchaseFrequencyPerMonth
+CustomerAge
+IsLoyal
+TopCategory_Encoded
+TotalQuantity
+ReturnRate
